@@ -1,0 +1,10 @@
+.logo i{
+  text-decoration: none;
+  color: #639a67;
+  transition: color 0.3s ease;
+  font-size: 20px;
+}
+
+.logo i:hover{
+  color: #2b580c;
+}
